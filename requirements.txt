@@ -1,0 +1,14 @@
+allennlp
+anytree
+cython
+evalai
+h5py
+mypy_extensions
+nltk
+numpy
+pillow
+tb-nightly
+tensorboardX  
+torch
+tqdm
+yacs
